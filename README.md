@@ -1,12 +1,12 @@
 ## <code>🚀MessageBox.Show(“Welcome to my github”).</code>
 
-##💫 About Me:
--
+## 💫 About Me:
+
 💻Desenvolvedor .NET
 
 📚Estudando C#, Asp.Net Core, Entinity Framework, Sql Server e Padrões de projeto
 
-👨‍💻Cursando em Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
+👨‍💻Cursando Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
 ##
 <div align="center">
   <a href="https://github.com/ricksrs">
