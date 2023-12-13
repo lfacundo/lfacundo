@@ -1,6 +1,6 @@
 ## <code align="center">🚀MessageBox.Show(“Welcome to my github”).</code>
 
-## <div align="center">💫 About Me:</div>
+## 💫 About Me:
 
 💻Desenvolvedor .NET
 
