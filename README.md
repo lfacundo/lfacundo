@@ -1,6 +1,12 @@
 ## 💫 About Me:
  - 🚀MessageBox.Show(“Welcome to my github”).
 ##
+💻Desenvolvedor .NET
+
+📚Estudando C#, Asp.Net Core, Entinity Framework, Sql Server e Padrões de projeto
+
+👨‍💻Cursando em Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
+##
 <div align="center">
   <a href="https://github.com/ricksrs">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lfacundo&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
