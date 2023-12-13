@@ -1,4 +1,4 @@
-## <code align="center">🚀MessageBox.Show(“Welcome to my github”).</code>
+## <code align="center">🚀MessageBox.Show(“Welcome to my github”);</code>
 
 ## 💫 About Me:
 
