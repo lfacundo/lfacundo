@@ -6,7 +6,7 @@
 
 📚Estudando C#, ASP.NET Core, Entity Framework, SQL Server e Padrões de projeto
 
-👨‍💻Cursando Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
+👨‍💻Formado em Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
 ##
 <div align="center">
 <a href="https://github.com/lfacundo">
