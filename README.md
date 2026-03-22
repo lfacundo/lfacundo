@@ -4,7 +4,7 @@
 
 💻Desenvolvedor .NET
 
-📚Estudando C#, ASP.NET Core, Entity Framework, SQL Server e Padrões de projeto
+📚C#, ASP.NET Core, Entity Framework, SQL Server e Padrões de projeto
 
 👨‍💻Formado em Análise e Desenvolvimento de Sistemas na Centro Universitário Católico Ítalo Brasileiro
 ##
